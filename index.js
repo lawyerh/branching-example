@@ -1,5 +1,6 @@
-var myVar = 10;
+var myVariable = 5;
 
-var otherVar = myVar + myVar;
+var myOtherVariable = myvariable * myVariable;
 
-console.log(otherVar);
+console.log(myOtherVariable);
+
